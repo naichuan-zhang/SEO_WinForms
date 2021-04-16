@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Form1.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Form1.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.pdb
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe.config
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.exe
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.pdb
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\bin\Debug\AddAdSmartByOwned.xml
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbprojAssemblyReference.cache
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Form1.resources
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.Resources.resources
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.GenerateResource.cache
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.vbproj.CoreCompileInputs.cache
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.exe
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.xml
+D:\SEO\GetWebFile - v3\AddAdSmartByOwned\obj\Debug\AddAdSmartByOwned.pdb

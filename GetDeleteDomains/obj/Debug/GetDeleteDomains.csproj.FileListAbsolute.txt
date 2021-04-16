@@ -1,0 +1,80 @@
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe.config
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.pdb
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.dll
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.xml
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csprojAssemblyReference.cache
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Form1.resources
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Properties.Resources.resources
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.GenerateResource.cache
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CoreCompileInputs.cache
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CopyComplete
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.exe
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.pdb
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.dll
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.dll
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.dll
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.xml
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.xml
+C:\Users\Reasonable\Desktop\tomtopSEO\SEO\SEO\GetWebFile源码\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe.config
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.pdb
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Form1.resources
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.exe
+C:\Users\Administrator\Desktop\SEO工作\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\GetDeleteDomains.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Form1.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\GetDeleteDomains\obj\Debug\GetDeleteDomains.pdb
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe.config
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\GetDeleteDomains.exe
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\GetDeleteDomains.pdb
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.License.dll
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.Pdf.dll
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.XLS.dll
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\WebDriver.dll
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Microsoft.mshtml.dll
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.License.xml
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.Pdf.xml
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\Spire.XLS.xml
+D:\SEO\GetWebFile - v3\GetDeleteDomains\bin\Debug\WebDriver.xml
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.csprojAssemblyReference.cache
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.Form1.resources
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.Properties.Resources.resources
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.GenerateResource.cache
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CoreCompileInputs.cache
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.csproj.CopyComplete
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.exe
+D:\SEO\GetWebFile - v3\GetDeleteDomains\obj\Debug\GetDeleteDomains.pdb

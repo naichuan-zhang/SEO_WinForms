@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\bin\Debug\UpdateLink.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\bin\Debug\UpdateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\bin\Debug\UpdateLink.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\bin\Debug\UpdateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.Form1.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\UpdateLink\obj\Debug\UpdateLink.pdb
+D:\SEO\GetWebFile - v3\UpdateLink\bin\Debug\UpdateLink.exe.config
+D:\SEO\GetWebFile - v3\UpdateLink\bin\Debug\UpdateLink.exe
+D:\SEO\GetWebFile - v3\UpdateLink\bin\Debug\UpdateLink.pdb
+D:\SEO\GetWebFile - v3\UpdateLink\bin\Debug\UpdateLink.xml
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.Form1.resources
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.Resources.resources
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.vbproj.GenerateResource.cache
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.vbproj.CoreCompileInputs.cache
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.exe
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.xml
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.pdb
+D:\SEO\GetWebFile - v3\UpdateLink\obj\Debug\UpdateLink.vbprojAssemblyReference.cache

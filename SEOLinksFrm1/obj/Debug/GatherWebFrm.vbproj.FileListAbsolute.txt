@@ -1,0 +1,11 @@
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.vbprojAssemblyReference.cache
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.Resources.resources
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.SEOLinksFrm.resources
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.vbproj.GenerateResource.cache
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.vbproj.CoreCompileInputs.cache
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\bin\Debug\GatherWebFrm.exe
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\bin\Debug\GatherWebFrm.pdb
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\bin\Debug\GatherWebFrm.xml
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.exe
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.xml
+E:\code\reviewWeb\GetWebFile\GatherWebFrm\obj\Debug\GatherWebFrm.pdb

@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\bin\Debug\CreateLink.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\bin\Debug\CreateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\bin\Debug\CreateLink.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\bin\Debug\CreateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.CreateLink.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile\CreateLink\obj\Debug\CreateLink.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.exe.config
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.pdb
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.CreateLink.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.Resources.resources
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.exe
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.xml
+C:\Users\Administrator\Desktop\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.pdb
+D:\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.exe.config
+D:\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.exe
+D:\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.pdb
+D:\SEO\GetWebFile - v3\CreateLink\bin\Debug\CreateLink.xml
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbprojAssemblyReference.cache
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.CreateLink.resources
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.Resources.resources
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbproj.GenerateResource.cache
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.vbproj.CoreCompileInputs.cache
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.exe
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.xml
+D:\SEO\GetWebFile - v3\CreateLink\obj\Debug\CreateLink.pdb
